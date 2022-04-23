@@ -1,0 +1,40 @@
+.header-img {
+  width: 455px;
+  height: 646px;
+}
+.header-title {
+  font-family: 'RF Dewi Expanded';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 110%;
+  color: #444444;
+}
+.header-subtitle {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  color: #444444;
+
+}
+.header-catalog {
+  background-color: #444444;
+  font-family: 'RF Dewi Expanded';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 120%;
+  text-align: right;
+  color: #FFFFFF;
+}
+.header-catalog:hover{
+  cursor: pointer;
+}
+
+.header-arrow {
+  width: 27px;
+  height: 25px;
+  margin-left: 15px;
+}
