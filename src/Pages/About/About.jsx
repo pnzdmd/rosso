@@ -1,7 +1,11 @@
-import React from 'react';
+import History from '../../Components/History/History';
 
 function About(props) {
-  return <div></div>;
+  return (
+    <div>
+      <History />
+    </div>
+  );
 }
 
 export default About;

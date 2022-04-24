@@ -1,0 +1,20 @@
+.guarantees-title {
+  margin-top: 140px;
+  font-family: 'RF Dewi Expanded';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 110%;
+  text-align: right;
+  color: #444444;
+
+}
+.guarantees-subtitle {
+  margin: 95px 0 95px 0;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  color: #444444;
+}

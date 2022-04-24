@@ -1,5 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navigation from '../Navigation/Navigation';
+import Footer from '../Footer/Footer';
 import About from '../../Pages/About/About';
 import Articles from '../../Pages/Articles/Articles';
 import Brands from '../../Pages/Brands/Brands';
@@ -15,7 +16,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="container">
      <Router>
         <Navigation/>
        <Routes>
@@ -29,6 +30,7 @@ function App() {
           <Route path='/guarantees' element={<Guarantees/>}/>
           <Route path='/news' element={<News/>}/>
         </Routes>
+        <Footer/>
       </Router>
     </div>
   );

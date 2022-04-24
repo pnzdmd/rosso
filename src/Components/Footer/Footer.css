@@ -1,0 +1,31 @@
+.footer {
+  background-color: #444444;
+}
+.footer-title {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 145%;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.footer-link {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 145%;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.footer-cooping {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 145%;
+  color: #7A7A7A;
+}

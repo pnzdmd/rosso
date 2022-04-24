@@ -1,0 +1,27 @@
+.contacts {
+  margin: 110px 0 100px 0;
+}
+.contacts-title {
+  font-family: 'RF Dewi Expanded';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 110%;
+  color: #444444;
+}
+.contacts-subtitle {
+  font-family: 'RF Dewi Expanded';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 120%;
+  color: #444444;
+}
+.contacts-descriprion {
+  font-family: 'RF Dewi Expanded';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  color: #7A7A7A;
+}

@@ -1,40 +1,51 @@
 .header-img {
-  width: 455px;
-  height: 646px;
+  /* width: 455px;
+  height: 646px; */
+  width: 100%;
+  height: 100%;
+}
+.header-logo {
+  display: flex;
+  justify-content: center;
 }
 .header-title {
+  margin-top: 120px;
   font-family: 'RF Dewi Expanded';
   font-style: normal;
   font-weight: 600;
-  font-size: 32px;
+  font-size: 35px;
   line-height: 110%;
   color: #444444;
 }
 .header-subtitle {
+  margin-top: 250px;
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 150%;
   color: #444444;
-
 }
 .header-catalog {
   background-color: #444444;
+  text-align: right;
+}
+.header-link {
   font-family: 'RF Dewi Expanded';
   font-style: normal;
   font-weight: 600;
   font-size: 30px;
   line-height: 120%;
-  text-align: right;
   color: #FFFFFF;
+ 
 }
-.header-catalog:hover{
-  cursor: pointer;
+.header-link:hover {
+  transition: .8s;
 }
 
 .header-arrow {
   width: 27px;
   height: 25px;
-  margin-left: 15px;
+  margin-left: 7px;
+  margin-right: 25px;
 }
